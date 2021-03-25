@@ -1,0 +1,16 @@
+HashTable和ConcurrentHashMap都是线程安全的容器。
+
+? ? ? ?
+HashTable: 线程安全，效率和容器的大小成正比。容器数据量越大，效率越慢
+
+? ? ? ConcurrentHashMap: 线程安全，效率相对于不如HashMap,但是和HashTable相比，效率得到很大的提升。
+————————————————
+
+
+
+参考文档：
+原文链接：https://blog.csdn.net/zhanglei082319/article/details/87888250
+
+
+
+https://www.wolai.com/river1235r/t2hzEppyJrBFt9fmg24UfG
