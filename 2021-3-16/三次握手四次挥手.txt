@@ -56,3 +56,6 @@ MSL最长报文段寿命Maximum Segment Lifetime，MSL=2
 2）A在发送完最后一个ACK报文段后，再经过2MSL，就可以使本连接持续的时间内所产生的所有报文段都从网络中消失，使下一个新的连接中不会出现这种旧的连接请求报文段。
 （4）为什么连接的时候是三次握手，关闭的时候却是四次握手？
 答：因为当Server端收到Client端的SYN连接请求报文后，可以直接发送SYN+ACK报文。其中ACK报文是用来应答的，SYN报文是用来同步的。但是关闭连接时，当Server端收到FIN报文时，很可能并不会立即关闭SOCKET，所以只能先回复一个ACK报文，告诉Client。
+
+参考文档：
+https://www.wolai.com/river1235r/6hRigMdFc988HDVFy5etcJ
