@@ -40,10 +40,8 @@ TCP是重量级的：在发送任何数据前，TCP都需要三次握手建立�
 UDP是轻量级的：没有跟踪连接、消息排列等
 
 
-
-
-
-
+[tcpudp1](https://github.com/zc698/topk/blob/master/2021-3-30/tcpudp.png)  
+[tcpudp2](https://github.com/zc698/topk/blob/master/2021-3-30/tcpudp2.png)
 
 版权声明：本文为CSDN博主「我是小杨我就这样」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
 原文链接：https://blog.csdn.net/weixin_44478378/article/details/107699196
