@@ -1,0 +1,4 @@
+聚簇索引和非聚簇索引有什么区别？
+
+参考文档：
+https://www.wolai.com/river1235r/xibxN7q5CswpPvoyDBhknU
