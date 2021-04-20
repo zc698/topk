@@ -66,3 +66,36 @@
 
 [**2021-04-03**](https://github.com/zc698/topk/tree/master/2021-4-03)  
 [HTTP 中 GET 和 POST 区别](https://github.com/zc698/topk/blob/master/2021-4-03/get%26post.md)
+
+[**2021-04-05**](https://github.com/zc698/topk/tree/master/2021-4-05)  
+[Python基础知识总结](https://github.com/zc698/topk/blob/master/2021-4-05/Python%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86%E6%80%BB%E7%BB%93.md)
+
+[**2021-04-06**](https://github.com/zc698/topk/tree/master/2021-4-06)  
+[BTree&B+Tree](https://github.com/zc698/topk/blob/master/2021-4-06/BTree%26B%2BTree.md)  
+[聚簇索引和非聚簇索引](https://github.com/zc698/topk/blob/master/2021-4-06/%E8%81%9A%E7%B0%87%E7%B4%A2%E5%BC%95%E5%92%8C%E9%9D%9E%E8%81%9A%E7%B0%87%E7%B4%A2%E5%BC%95.txt)  
+
+[**2021-04-11**](https://github.com/zc698/topk/tree/master/2021-4-11)  
+[从系统层面上，UDP如何保证尽量可靠](https://github.com/zc698/topk/blob/master/2021-4-11/%E4%BB%8E%E7%B3%BB%E7%BB%9F%E5%B1%82%E9%9D%A2%E4%B8%8A%EF%BC%8CUDP%E5%A6%82%E4%BD%95%E4%BF%9D%E8%AF%81%E5%B0%BD%E9%87%8F%E5%8F%AF%E9%9D%A0%EF%BC%9F.md)  
+[简述 HTTP 1.0，1.1，2.0 的主要区别](https://github.com/zc698/topk/blob/master/2021-4-11/%E7%AE%80%E8%BF%B0%20HTTP%201.0%EF%BC%8C1.1%EF%BC%8C2.0%20%E7%9A%84%E4%B8%BB%E8%A6%81%E5%8C%BA%E5%88%AB.md)
+
+[**2021-04-12**](https://github.com/zc698/topk/tree/master/2021-4-12)  
+[TCP&HTTPkeepalive](https://github.com/zc698/topk/blob/master/2021-4-12/TCP%26HTTPkeepalive.md)  
+[常见排序算法总结](https://github.com/zc698/topk/blob/master/2021-4-12/%E5%B8%B8%E8%A7%81%E6%8E%92%E5%BA%8F%E7%AE%97%E6%B3%95%E6%80%BB%E7%BB%93.md)
+
+[**2021-04-13**](https://github.com/zc698/topk/tree/master/2021-4-13)  
+[AVL 树和红黑树有什么区别](https://github.com/zc698/topk/blob/master/2021-4-13/AVL%E6%A0%91%E5%92%8C%E7%BA%A2%E9%BB%91%E6%A0%91%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB%EF%BC%9F.md)  
+[avlandredblacktree](https://github.com/zc698/topk/blob/master/2021-4-13/avlandredblacktree.png)
+
+[**2021-04-16**](https://github.com/zc698/topk/tree/master/2021-4-16)  
+[LRU算法及其实现方式](https://github.com/zc698/topk/blob/master/2021-4-16/LRU%E7%AE%97%E6%B3%95%E5%8F%8A%E5%85%B6%E5%AE%9E%E7%8E%B0%E6%96%B9%E5%BC%8F.md)  
+[OSI七层协议](https://github.com/zc698/topk/blob/master/2021-4-16/OSI%E4%B8%83%E5%B1%82%E5%8D%8F%E8%AE%AE.md)  
+[hashtable](https://github.com/zc698/topk/blob/master/2021-4-16/hashtable.md)  
+[如何通过一个不均匀的硬币得到公平的结果？](https://github.com/zc698/topk/blob/master/2021-4-16/%E5%A6%82%E4%BD%95%E9%80%9A%E8%BF%87%E4%B8%80%E4%B8%AA%E4%B8%8D%E5%9D%87%E5%8C%80%E7%9A%84%E7%A1%AC%E5%B8%81%E5%BE%97%E5%88%B0%E5%85%AC%E5%B9%B3%E7%9A%84%E7%BB%93%E6%9E%9C%EF%BC%9F.md)  
+[寻找最小的K个数](https://github.com/zc698/topk/blob/master/2021-4-16/%E5%AF%BB%E6%89%BE%E6%9C%80%E5%B0%8F%E7%9A%84K%E4%B8%AA%E6%95%B0.md)  
+[有序链表插入的时间复杂度是多少？](https://github.com/zc698/topk/blob/master/2021-4-16/%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8%E6%8F%92%E5%85%A5%E7%9A%84%E6%97%B6%E9%97%B4%E5%A4%8D%E6%9D%82%E5%BA%A6%E6%98%AF%E5%A4%9A%E5%B0%91%EF%BC%9F.md)  
+
+[**2021-04-17**](https://github.com/zc698/topk/tree/master/2021-4-17)  
+[简述常见的负载均衡算法](https://github.com/zc698/topk/tree/master/2021-4-17)
+
+[**2021-04-20**](https://github.com/zc698/topk/tree/master/2021-4-20)  
+

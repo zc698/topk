@@ -31,7 +31,7 @@ B+ 树利于扫库和范围查询
 B+ 树叶子结点之间用链表有序连接，所以扫描全部数据只需扫描一遍叶子结点，  
 B 树由于非叶子结点也存数据，所以只能通过中序遍历按序来扫。也就是说，对于范围查询和有序遍历而言，B+ 树的效率更高。
 
-参考文档：
-https://github.com/weitingyuk/Java-Basic-Notes/blob/main/2021-02-22/BTree&B+Tree.md
+参考文档：  
+[https://github.com/weitingyuk/Java-Basic-Notes/blob/main/2021-02-22/BTree&B+Tree.md](https://github.com/weitingyuk/Java-Basic-Notes/blob/main/2021-02-22/BTree&B+Tree.md)
+[https://www.wolai.com/river1235r/pL4VbgBDvcvuTCLhgK7hNv](https://www.wolai.com/river1235r/pL4VbgBDvcvuTCLhgK7hNv)
 
-https://www.wolai.com/river1235r/pL4VbgBDvcvuTCLhgK7hNv
