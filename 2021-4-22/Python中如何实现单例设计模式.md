@@ -1,0 +1,6 @@
+# Python中如何实现单例设计模式 #
+
+单例模式主要有四种方法：new、共享属性、装饰器、import。
+
+参考文档：  
+[https://blog.csdn.net/weixin_30546189/article/details/99137193?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522161910532616780265492949%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=161910532616780265492949&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~baidu_landing_v2~default-1-99137193.pc_search_result_before_js&utm_term=Python%E4%B8%AD%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E5%8D%95%E4%BE%8B%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%EF%BC%9F](https://blog.csdn.net/weixin_30546189/article/details/99137193?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522161910532616780265492949%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=161910532616780265492949&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~baidu_landing_v2~default-1-99137193.pc_search_result_before_js&utm_term=Python%E4%B8%AD%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0%E5%8D%95%E4%BE%8B%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%EF%BC%9F)
