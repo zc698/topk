@@ -1,0 +1,3 @@
+git remote add origin https://github.com/zc698/topk.git
+git push -u origin master
+
