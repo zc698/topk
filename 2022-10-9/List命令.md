@@ -88,4 +88,11 @@ OK
 lset list 0 item:如果列表不存在，我们更新会 报错，如果存在，更新当前下标的值  
 
 将某个具体的value插入到列表中某个元素的前面或者后面。
-127.0.0.1:6379> linsert mylist after worl new
+127.0.0.1:6379> linsert mylist after worl new  
+
+小结：  
+它实际上是一个链表，before node after，left，right都可以插入值。  
+如果key不存在，创建新的链表  
+如果key存在，新增内容  
+如果移除了所有值，空链表也代表不存在。  
+在两边插入或者改动值，效率最高。中间元素效率会低一点。  
